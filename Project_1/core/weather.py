@@ -1,0 +1,16 @@
+import logging
+
+log = logging.getLogger(__name__)
+
+class weather:
+    def __init__(self):
+        log.info("LOADED WEATHER")
+        self.url = "https://api.open-meteo.com/v1/forecast"
+
+    def get_weather(self, longitude:float,latitude:float):
+        new_url = f"{self.url}?longitude={longitude}&latitude={latitude}&hourly=temperature_2m"
+        log.info(new_url)
+
+
+
+
