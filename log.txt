@@ -1,0 +1,2 @@
+2022-11-10 14:03:30 - Project_1.main - INFO - gone to root
+2022-11-10 14:07:29 - Project_1.main - WARNING - loaded item testing
