@@ -37,10 +37,11 @@ async def read_item(item_id):
     return {"item_id": item_id}
 
 @app.get("/weather")
-async def get_weather(latitude: float = 51.5002, longitude: float = -0.120000124):
+async def get_weather(latitude: float = 48.8567 , longitude: float = -0.120000124, rain: bool = False):
     log.info(f"Requested latitude: {latitude} and longitude: {longitude}")
-    output = {}
-    weather_api.get_weather(latitude=latitude,longitude=longitude)
+    output = weather_api.get_weather(latitude=latitude,longitude=longitude,rain=rain)
+    log.info("returned data")
+
 
     return {"weather": output}
 

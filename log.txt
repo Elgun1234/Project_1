@@ -28,3 +28,51 @@
 2022-11-10 14:54:40 - Project_1.core.weather - INFO - LOADED WEATHER
 2022-11-10 14:54:46 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
 2022-11-10 14:54:46 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:11:50 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:11:55 - Project_1.main - INFO - gone to root
+2022-11-11 14:12:12 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:12:12 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:13:13 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:13:13 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:13:14 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:13:14 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:13:22 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:13:22 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:14:32 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:14:32 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:21:43 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:21:45 - Project_1.main - INFO - gone to root
+2022-11-11 14:21:49 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:21:49 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:23:12 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:23:14 - Project_1.main - INFO - gone to root
+2022-11-11 14:23:18 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:23:18 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:25:15 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:25:17 - Project_1.main - INFO - gone to root
+2022-11-11 14:25:20 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:25:20 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:25:20 - Project_1.core.utils - INFO - read url successfully
+2022-11-11 14:25:20 - Project_1.main - INFO - returned data
+2022-11-11 14:45:57 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:45:58 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:45:58 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m
+2022-11-11 14:45:58 - Project_1.core.utils - INFO - read url successfully
+2022-11-11 14:45:58 - Project_1.main - INFO - returned data
+2022-11-11 14:46:46 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:48:11 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124
+2022-11-11 14:48:11 - Project_1.core.weather - INFO - added rain
+2022-11-11 14:48:11 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=-0.120000124&latitude=51.5002&hourly=temperature_2m,rain
+2022-11-11 14:48:11 - Project_1.core.utils - INFO - read url successfully
+2022-11-11 14:48:11 - Project_1.main - INFO - returned data
+2022-11-11 14:50:42 - Project_1.main - INFO - Requested latitude: 48.8567 and longitude: 2.351
+2022-11-11 14:50:42 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=2.351&latitude=48.8567&hourly=temperature_2m
+2022-11-11 14:50:42 - Project_1.core.utils - INFO - read url successfully
+2022-11-11 14:50:42 - Project_1.main - INFO - returned data
+2022-11-11 14:50:54 - Project_1.main - INFO - Requested latitude: 48.8567 and longitude: 2.351
+2022-11-11 14:50:54 - Project_1.core.weather - INFO - added rain
+2022-11-11 14:50:54 - Project_1.core.weather - INFO - https://api.open-meteo.com/v1/forecast?longitude=2.351&latitude=48.8567&hourly=temperature_2m,rain
+2022-11-11 14:50:54 - Project_1.core.utils - INFO - read url successfully
+2022-11-11 14:50:54 - Project_1.main - INFO - returned data
+2022-11-11 14:52:18 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-11 14:54:52 - Project_1.core.weather - INFO - LOADED WEATHER
