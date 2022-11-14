@@ -76,3 +76,49 @@
 2022-11-11 14:50:54 - Project_1.main - INFO - returned data
 2022-11-11 14:52:18 - Project_1.core.weather - INFO - LOADED WEATHER
 2022-11-11 14:54:52 - Project_1.core.weather - INFO - LOADED WEATHER
+2022-11-14 11:28:34 - Project_1.core.weather - INFO - Initialised weather
+2022-11-14 11:28:38 - Project_1.main - INFO - gone to root
+2022-11-14 11:28:47 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:31:39 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:48:00 - Project_1.core.weather - INFO - Initialised weather
+2022-11-14 11:48:01 - Project_1.main - INFO - gone to root
+2022-11-14 11:48:03 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:48:03 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:48:38 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:48:38 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:48:38 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:48:38 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:48:56 - Project_1.core.weather - INFO - Initialised weather
+2022-11-14 11:48:57 - Project_1.main - INFO - gone to root
+2022-11-14 11:49:01 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:49:01 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:56:32 - Project_1.core.weather - INFO - Initialised weather
+2022-11-14 11:56:33 - Project_1.main - INFO - gone to root
+2022-11-14 11:56:37 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:56:37 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:59:52 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:59:52 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 11:59:59 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 11:59:59 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:02:01 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:02:01 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:02:12 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:02:12 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:02:31 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:02:31 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:02:47 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:02:47 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:02:57 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:02:57 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:03:21 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:03:21 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:03:33 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:03:33 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:03:51 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:03:51 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:04:35 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:04:35 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:04:46 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:04:46 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m
+2022-11-14 12:05:03 - Project_1.main - INFO - Requested latitude: 51.5002 and longitude: -0.120000124 with options temperature_2m
+2022-11-14 12:05:03 - Project_1.core.utils - INFO - Requesting: https://api.open-meteo.com/v1/forecast?latitude=51.5002&longitude=-0.120000124&hourly=temperature_2m

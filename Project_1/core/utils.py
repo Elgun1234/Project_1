@@ -1,12 +1,12 @@
+from urllib.request import urlopen
 import logging
-import urllib.request
 
 log = logging.getLogger(__name__)
 
-def get_url(url):
-    opened_url = urllib.request.urlopen(url)
-    read_url = opened_url.read()
-    url_content = read_url.decode("utf8")
-    opened_url.close()
-    log.info("read url successfully")
-    return url_content
+def scrape(url:str):
+    log.info(f"Requesting: {url}")
+    fp = urlopen(url)
+    mybytes = fp.read()
+    mystr = mybytes.decode("utf8")
+    fp.close()
+    return mystr

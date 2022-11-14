@@ -1,1 +1,1 @@
-# Project_1
+uvicorn Project_1.main:app
