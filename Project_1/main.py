@@ -52,7 +52,17 @@ def html_output(request: Request):
 
 @app.get("/chart", response_class=HTMLResponse)
 def html_output(request: Request):
+    data = get_weather(options="temperature_2m")
+    data = data['weather']['hourly']['time']
+
+
+
+
     return templates.TemplateResponse(
         "weather.html",
         {"request": request, "data": get_weather(options="temperature_2m")},
     )
+
+@app.post("/weather_send")
+def weather_send(country:str = "london", temperature:str | None = None):
+    return {"country": country, "temp": temperature}
