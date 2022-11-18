@@ -26,7 +26,3 @@ class Weather:
         options = options.split(",")
         options = [option for option in options if option in self.valid_options]
         return ",".join(options)
-
-
-
-
